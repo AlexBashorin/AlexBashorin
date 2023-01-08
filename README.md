@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexBashorin
+- !0
 - 🐋 TS, REACT, NEXT.js
 - 🌱 I’m currently learning: GO, DOCKER, NEST.js, React native
 - 📫 bashorina5@gmail.com
