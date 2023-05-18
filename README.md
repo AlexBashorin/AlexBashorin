@@ -1,5 +1,4 @@
-- 🐋 TS, REACT, GO, DOCKER,  
-- 🌱 I’m currently learning: KUBERNETES, NEXT.js
+- 🐋 TS, GO, DOCKER, KUBERNETES, NEXT.js
 - 📫 bashorina5@gmail.com
 - codewars: https://www.codewars.com/users/AlexBashorin
 - leetcode: https://leetcode.com/bashorina5/
