@@ -1,4 +1,3 @@
-- 🐋 TS, GO, Docker, Kubernetes
-- 📫 bashorina5@gmail.com
-- codewars: https://www.codewars.com/users/AlexBashorin
-- leetcode: https://leetcode.com/bashorina5/
+🐋 Backend developer
+📫 bashorina5@gmail.com
+leetcode: https://leetcode.com/bashorina5/
