@@ -1,3 +1,2 @@
-🐋 Backend-GO developer  
-📫 bashorina5@gmail.com  
-leetcode: https://leetcode.com/bashorina5/
+🐋 Backend dev
+📫 alekbash@proton.me
